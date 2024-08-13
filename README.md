@@ -29,8 +29,32 @@ Automated feature extraction workflow code
 
 Usage
 [Include basic instructions on how to use the code and models]
+
 Dependencies
-[List the main dependencies required to run the code]
+This project requires the following main Python libraries:
+
+NumPy
+SciPy
+pandas
+ASE (Atomic Simulation Environment)
+scikit-learn
+scikit-optimize
+interpret-community
+matplotlib
+tqdm
+minepy
+statsmodels
+alive-progress
+
+Additional system libraries and tools:
+
+Python 3.7+ | Linux
+Jupyter Notebook (for running IPython magic commands)
+
+To install the required Python packages, you can use pip:
+pip install numpy scipy pandas ase scikit-learn scikit-optimize interpret-community matplotlib tqdm minepy statsmodels alive-progress
+Note: Some libraries like interpret-community might have additional system dependencies. Please refer to their respective documentation for complete installation instructions.
+
 Citation
 If you use this code or models in your research, please cite:
 [Include relevant citations]
