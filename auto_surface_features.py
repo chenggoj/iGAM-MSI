@@ -342,7 +342,7 @@ def main():
                 }
                 all_data.append(data)
 
-            bar()  # 更新进度条
+            bar()  
 
     # Create a DataFrame with the extracted features
     df = pd.DataFrame(all_data)
