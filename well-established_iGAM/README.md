@@ -4,16 +4,16 @@ This directory contains well-established Interpretable Generalized Additive Mode
 
 ## Contents
 
-1. `6-features_iGAM.joblib` (6.7MB)
+1. `6-features_iGAM.joblib` 
    - A trained iGAM model using 6 key features for predicting metal-support interactions.
 
-2. `12-features_iGAM.joblib` (66KB)
+2. `12-features_iGAM.joblib` 
    - A more comprehensive iGAM model using 12 features for potentially more accurate predictions.
 
-3. `predicted_from_6-features_iGAM.py` (2.2KB)
+3. `predicted_from_6-features_iGAM.py` 
    - Python script for high-throughput screening using the 6-feature iGAM model.
 
-4. `predicted_from_12-features_iGAM.py` (2.3KB)
+4. `predicted_from_12-features_iGAM.py`
    - Python script for high-throughput screening using the 12-feature iGAM model.
 
 ## Model Features
