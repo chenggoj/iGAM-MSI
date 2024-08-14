@@ -3,18 +3,19 @@ iGAM-MSI is a repository containing code and trained machine learning models for
 
 iGAM-MSI
 Introduction
-iGAM-MSI is a repository containing code and trained machine learning models for studying Metal-Support Interactions (MSI) using Interpretable Generalized Additive Models (iGAM). This project leverages the power of iGAM to provide accurate and explainable predictions in materials science.
-About iGAM (or Explainable Boosting Machine (EBM))
-Interpretable Generalized Additive Models (iGAM) or Explainable Boosting Machine (EBM)is a decision-tree based machine learning model designed to offer accuracy comparable to state-of-the-art methods like Random Forest and Boosted Trees, while maintaining high interpretability.
+In the realm of materials science, understanding is light. iGAM-MSI illuminates the complex world of Metal-Support Interactions.
+iGAM-MSI is an open-source code that leverages Interpretable Generalized Additive Models (iGAM) to study Metal-Support Interactions (MSI). With this package, you can train interpretable glassbox models and explain the intricacies of MSI systems. iGAM-MSI helps you understand your model's global behavior, or unravel the reasons behind individual predictions.
+Interpretability in MSI research is essential for:
+
+Model debugging - Why did my model make this prediction about a specific metal-support interaction?
+Feature Engineering - How can I improve my model to better capture MSI phenomena?
+Material Design - Can we use these insights to design better catalysts or supported metal systems?
+Scientific Discovery - What new insights about MSI can we glean from these interpretable models?
+
 For a detailed overview of iGAMs, please refer to the original EBM link (https://github.com/interpretml/interpret/)
 
-Key features of iGAM include:
-
-Modern machine learning techniques
-Automatic MSI prediction
-High interpretability
-Fast prediction times
-
+Introducing iGAM for MSI
+iGAM (Interpretable Generalized Additive Models) breathes new life into the study of Metal-Support Interactions. By combining modern machine learning techniques with traditional GAMs, we create models that are both highly accurate and fully interpretable.
 Repository Contents
 This repository includes:
 
@@ -26,9 +27,6 @@ Well-established iGAM models:
 
 Model training workflows
 Automated feature extraction workflow code
-
-Usage
-[Include basic instructions on how to use the code and models]
 
 Dependencies
 This project requires the following main Python libraries:
@@ -46,13 +44,11 @@ minepy
 statsmodels
 alive-progress
 
-Additional system libraries and tools:
+To install all dependencies:
+pip install -r requirements.txt
 
 Python 3.7+ | Linux
 Jupyter Notebook (for running IPython magic commands)
-
-To install the required Python packages, you can use pip:
-pip install numpy scipy pandas ase scikit-learn scikit-optimize interpret-community matplotlib tqdm minepy statsmodels alive-progress
 Note: Some libraries like interpret-community might have additional system dependencies. Please refer to their respective documentation for complete installation instructions.
 
 Citation
