@@ -1,7 +1,0 @@
-Train R²: 0.9752
-Test R²: 0.2238
-Train RMSE: 0.0719
-Test RMSE: 0.4516
-Train MAE: 0.0382
-Test MAE: 0.2929
-Best hyperparameters: {'smoothing_rounds': 0, 'outer_bags': 1, 'min_samples_leaf': 1, 'max_rounds': 10, 'max_leaves': 20, 'max_interaction_bins': 1024, 'max_bins': 8, 'learning_rate': 0.5, 'inner_bags': 4, 'early_stopping_tolerance': 0.0001, 'early_stopping_rounds': 100}
