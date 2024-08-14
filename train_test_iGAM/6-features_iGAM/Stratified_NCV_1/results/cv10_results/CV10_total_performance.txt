@@ -1,0 +1,133 @@
+----------------Start of CV10----------------
+
+Iteration 1:
+Train R²: 0.7182487519507941
+Test R²: 0.44919087357676146
+Train RMSE: 0.2563979015612774
+Test RMSE: 0.29756074191216153
+Train MAE: 0.15439479869842
+Test MAE: 0.22118250474804185
+Best parameters: {'smoothing_rounds': 100, 'outer_bags': 1, 'min_samples_leaf': 1, 'max_rounds': 1000, 'max_leaves': 20, 'max_interaction_bins': 1024, 'max_bins': 8, 'learning_rate': 0.5, 'inner_bags': 0, 'early_stopping_tolerance': 0.0001, 'early_stopping_rounds': 5}
+
+Iteration 2:
+Train R²: 0.6488163276000354
+Test R²: 0.12420272976359314
+Train RMSE: 0.28625211239835097
+Test RMSE: 0.37521212373035684
+Train MAE: 0.20231203967579625
+Test MAE: 0.26761491829804235
+Best parameters: {'smoothing_rounds': 100, 'outer_bags': 1, 'min_samples_leaf': 1, 'max_rounds': 1000, 'max_leaves': 20, 'max_interaction_bins': 1024, 'max_bins': 8, 'learning_rate': 0.001, 'inner_bags': 0, 'early_stopping_tolerance': 0.0001, 'early_stopping_rounds': 5}
+
+Iteration 3:
+Train R²: 0.663320485292914
+Test R²: 0.38004878383518526
+Train RMSE: 0.2802785670632596
+Test RMSE: 0.31568491327476655
+Train MAE: 0.20442076812287396
+Test MAE: 0.22225641382095906
+Best parameters: {'smoothing_rounds': 0, 'outer_bags': 5, 'min_samples_leaf': 1, 'max_rounds': 1000, 'max_leaves': 20, 'max_interaction_bins': 8, 'max_bins': 8, 'learning_rate': 0.001, 'inner_bags': 4, 'early_stopping_tolerance': 0.0001, 'early_stopping_rounds': 100}
+
+Iteration 4:
+Train R²: 0.5822103948866775
+Test R²: 0.26470297389987185
+Train RMSE: 0.31221973971906786
+Test RMSE: 0.3438004761617968
+Train MAE: 0.22860510881673513
+Test MAE: 0.24851019139516536
+Best parameters: {'smoothing_rounds': 0, 'outer_bags': 1, 'min_samples_leaf': 20, 'max_rounds': 1000, 'max_leaves': 20, 'max_interaction_bins': 8, 'max_bins': 8, 'learning_rate': 0.001, 'inner_bags': 4, 'early_stopping_tolerance': 0.0001, 'early_stopping_rounds': 5}
+
+Iteration 5:
+Train R²: 0.7831797220062753
+Test R²: 0.3945226422191974
+Train RMSE: 0.2249217690624435
+Test RMSE: 0.31197803809298585
+Train MAE: 0.15922315386612992
+Test MAE: 0.2204687323960846
+Best parameters: {'smoothing_rounds': 0, 'outer_bags': 5, 'min_samples_leaf': 20, 'max_rounds': 1000, 'max_leaves': 20, 'max_interaction_bins': 1024, 'max_bins': 8, 'learning_rate': 0.001, 'inner_bags': 0, 'early_stopping_tolerance': 0.0001, 'early_stopping_rounds': 100}
+
+Iteration 6:
+Train R²: 0.725113366586033
+Test R²: 0.40495316191946895
+Train RMSE: 0.25325518956209303
+Test RMSE: 0.30927915136104606
+Train MAE: 0.1851847640337959
+Test MAE: 0.2178073701779622
+Best parameters: {'smoothing_rounds': 0, 'outer_bags': 5, 'min_samples_leaf': 20, 'max_rounds': 1000, 'max_leaves': 20, 'max_interaction_bins': 1024, 'max_bins': 8, 'learning_rate': 0.001, 'inner_bags': 4, 'early_stopping_tolerance': 0.0001, 'early_stopping_rounds': 5}
+
+Iteration 7:
+Train R²: 0.8331761319235986
+Test R²: 0.40761055404724633
+Train RMSE: 0.19729252707054687
+Test RMSE: 0.308587780885152
+Train MAE: 0.14481064470473223
+Test MAE: 0.20726751323153736
+Best parameters: {'smoothing_rounds': 0, 'outer_bags': 5, 'min_samples_leaf': 20, 'max_rounds': 10, 'max_leaves': 20, 'max_interaction_bins': 1024, 'max_bins': 8, 'learning_rate': 0.5, 'inner_bags': 0, 'early_stopping_tolerance': 0.0001, 'early_stopping_rounds': 5}
+
+Iteration 8:
+Train R²: 0.6003993079028667
+Test R²: 0.4285874305485611
+Train RMSE: 0.3053477035346813
+Test RMSE: 0.3030748953020603
+Train MAE: 0.2232870417302701
+Test MAE: 0.2204076040765895
+Best parameters: {'smoothing_rounds': 100, 'outer_bags': 1, 'min_samples_leaf': 20, 'max_rounds': 1000, 'max_leaves': 20, 'max_interaction_bins': 8, 'max_bins': 8, 'learning_rate': 0.001, 'inner_bags': 4, 'early_stopping_tolerance': 0.0001, 'early_stopping_rounds': 5}
+
+Iteration 9:
+Train R²: 0.6718099904099524
+Test R²: 0.3930730399730551
+Train RMSE: 0.27672233939173674
+Test RMSE: 0.3123512755871118
+Train MAE: 0.18781350239306152
+Test MAE: 0.2169989439231608
+Best parameters: {'smoothing_rounds': 0, 'outer_bags': 5, 'min_samples_leaf': 20, 'max_rounds': 1000, 'max_leaves': 20, 'max_interaction_bins': 1024, 'max_bins': 8, 'learning_rate': 0.001, 'inner_bags': 4, 'early_stopping_tolerance': 0.0001, 'early_stopping_rounds': 100}
+
+Iteration 10:
+Train R²: 0.7447808441342105
+Test R²: 0.39267622376342015
+Train RMSE: 0.24402716593981003
+Test RMSE: 0.3124533684291485
+Train MAE: 0.1779373960511499
+Test MAE: 0.2237849146124116
+Best parameters: {'smoothing_rounds': 0, 'outer_bags': 5, 'min_samples_leaf': 20, 'max_rounds': 1000, 'max_leaves': 20, 'max_interaction_bins': 1024, 'max_bins': 8, 'learning_rate': 0.001, 'inner_bags': 4, 'early_stopping_tolerance': 0.0001, 'early_stopping_rounds': 5}
+
+----------------Overall performance of CV10----------------
+
+Average performance:
+Train R²: 0.6971055322693358
+Test R²: 0.363956841354636
+Train RMSE: 0.26367150153032676
+Test RMSE: 0.31899827647365864
+Train MAE: 0.18679892180929653
+Test MAE: 0.2266299106679955
+
+Best Model by Test R²
+Iteration: 1
+Train R²: 0.7182487519507941
+Test R²: 0.44919087357676146
+Train RMSE: 0.2563979015612774
+Test RMSE: 0.29756074191216153
+Train MAE: 0.15439479869842
+Test MAE: 0.22118250474804185
+
+Best Model by Test RMSE
+Iteration: 1
+Train R²: 0.7182487519507941
+Test R²: 0.44919087357676146
+Train RMSE: 0.2563979015612774
+Test RMSE: 0.29756074191216153
+Train MAE: 0.15439479869842
+Test MAE: 0.22118250474804185
+
+Best Model by Test MAE
+Iteration: 7
+Train R²: 0.8331761319235986
+Test R²: 0.40761055404724633
+Train RMSE: 0.19729252707054687
+Test RMSE: 0.308587780885152
+Train MAE: 0.14481064470473223
+Test MAE: 0.20726751323153736
+
+----------------End of CV10----------------
+
+I will use the best-trained hyperparameters by Iteration: 7 to train and test the final model via the whole training set and test set
+
