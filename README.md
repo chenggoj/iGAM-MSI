@@ -11,7 +11,6 @@ iGAM-MSI: Illuminating Metal-Support Interactions through Interpretable Machine 
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [NN-MD-database](#nn-md-database)
-- [Contributing](#contributing)
 - [References](#references)
 - [Citation](#citation)
 
@@ -103,9 +102,6 @@ This database serves as a valuable resource for researchers looking to:
 
 For more details on the database contents and usage, please refer to the [NN-MD-database README](NN-MD-database/README.md).
 
-## Contributing
-
-We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for more details.
 
 ## References
 
