@@ -65,7 +65,7 @@ Note: Some libraries like `interpret-community` might have additional system dep
 
 ## Usage
 
-[Include basic usage instructions or link to more detailed documentation]
+
 
 ## NN-MD-database
 
@@ -112,4 +112,4 @@ For a detailed overview of iGAMs, please refer to the [original EBM repository](
 If you use this code, models, or the NN-MD-database in your research, please cite:
 
 ```bibtex
-[Include your citation here]
+
