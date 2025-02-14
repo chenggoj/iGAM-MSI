@@ -3,7 +3,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-iGAM-MSI: Illuminating Metal-Support Interactions through Interpretable Machine Learning
+iGAM-MSI: Shed light on Metal-Support Interactions through Interpretable Machine Learning
 
 <img src="./images/overview.webp" width="600" alt="iGAM-MSI Overview">
 
