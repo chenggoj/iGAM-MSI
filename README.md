@@ -5,7 +5,7 @@
 
 iGAM-MSI: Shed light on Metal-Support Interactions through Interpretable Machine Learning (Glass-box model)
 
-<img src="./images/Overview_MSI.webp" width="600" alt="iGAM-MSI Overview">
+<img src="./images/Overview.webp" width="600" alt="iGAM-MSI Overview">
 
 ## Table of Contents
 - [Introduction](#introduction)
