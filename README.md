@@ -5,7 +5,7 @@
 
 iGAM-MSI: Illuminating Metal-Support Interactions through Interpretable Machine Learning
 
-![iGAM-MSI Overview](./images/overview.webp)
+<img src="./images/overview.webp" width="600" alt="iGAM-MSI Overview">
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
