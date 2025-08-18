@@ -12,7 +12,6 @@ iGAM-MSI: Shed light on Metal-Support Interactions through Interpretable Machine
 - [Features](#features)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [NN-MD-database](#nn-md-database)
 - [References](#references)
 - [Citation](#citation)
 
@@ -36,7 +35,6 @@ Interpretability in MSI research is essential for:
 - Well-established iGAM models:
   - 12-features iGAM
   - 6-features iGAM
-- Model training workflows
 - Automated feature extraction workflow code
 
 
@@ -64,46 +62,6 @@ This project requires the following main Python libraries:
 - alive-progress
 
 Note: Some libraries like `interpret-community` might have additional system dependencies. Please refer to their respective documentation for complete installation instructions.
-
-## Usage
-
-
-
-## NN-MD-database
-
-The `NN-MD-database` directory contains all the original data and details from Neural Network Molecular Dynamics (NN-MD) simulations used to train iGAM-MSI models. This comprehensive database includes:
-
-- Initial structures of metal nanoparticles on various supports
-- Time-series data of important physical properties
-- Visualization files for key interactions and phenomena
-- Detailed simulation parameters and conditions
-
-### Directory Structure
-
-NN-MD-database/
-├── {support_material}{miller_index}{OC22_trajectory_id}/
-│   ├── initial_NNMD.pdb
-│   ├── MD_Pt_contact_angle_adhesion_energy.csv
-│   ├── MD_contact_angle_Normalized_MSI_descriptor.pdf
-│   └── MD_Pt_Eadh_ChemicalPotential.pdf
-├── Another_System/
-│   └── ...
-└── ...
-
-Each subdirectory represents a specific metal-support system, named according to the convention: `{support_material}_{miller_index}_{OC22_trajectory_id}`. Each directory contains:
-
-- `initial_NNMD.pdb`: Initial structure file of the Pt NP/support system for NN-MD simulations
-- `MD_Pt_contact_angle_adhesion_energy.csv`: Time-series data including contact angle, adhesion energy, normalized MSI descriptor, and chemical potential of Pt
-- `MD_contact_angle_Normalized_MSI_descriptor.pdf`: Visualization of contact angle and normalized MSI descriptor evolution
-- `MD_Pt_Eadh_ChemicalPotential.pdf`: Visualization of Pt adhesion energy and chemical potential trends
-
-This database serves as a valuable resource for researchers looking to:
-- Validate computational models
-- Explore trends in metal-support interactions
-- Develop new descriptors for MSI phenomena
-
-For more details on the database contents and usage, please refer to the [NN-MD-database README](NN-MD-database/README.md).
-
 
 ## References
 
