@@ -71,4 +71,5 @@ For a detailed overview of iGAMs, please refer to the [original EBM repository](
 
 If you use this code, models, or the NN-MD-database in your research, please cite: 
 
-```bibtex DOI:10.1038/s41929-025-01417-3
+```bibtex 
+DOI:10.1038/s41929-025-01417-3
