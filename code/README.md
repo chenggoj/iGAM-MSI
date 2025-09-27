@@ -19,21 +19,8 @@ Usage:
 
 python3 auto_surface_features.py
 
-### 2. iGAM.py
 
-Implements the Interpretable Generalized Additive Model (iGAM) for predicting metal-support interactions.
-
-Features:
-- Data preprocessing and feature correlation analysis
-- Model training with various hyperparameter optimization strategies
-- Cross-validation and performance evaluation
-- Global and local interpretability analysis
-
-Usage:
-
-python3 iGAM.py
-
-### 3. surface_roughness.py
+### 2. surface_roughness.py
 
 Calculates surface roughness parameters from a CONTCAR file.
 
