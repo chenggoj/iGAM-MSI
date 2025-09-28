@@ -17,7 +17,7 @@ This directory contains well-established Interpretable Generalized Additive Mode
    - Python script for high-throughput screening using the 12-feature iGAM model.
      
 5. `Example`
-   The `Example/` directory contains a complete demonstration of the 12-feature iGAM model for high-throughput screening of catalyst supports.
+   - The `Example/` directory contains a complete demonstration of the 12-feature iGAM model for high-throughput screening of catalyst supports.
 
 ## Model Features
 
