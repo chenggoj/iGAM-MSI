@@ -42,9 +42,7 @@ Interpretability in MSI research is essential for:
 ## Prerequisites
 
 - Python 3.7+
-- Linux
-- Jupyter Notebook (for running IPython magic commands)
-
+  
 ## Dependencies
 
 This project requires the following main Python libraries:
