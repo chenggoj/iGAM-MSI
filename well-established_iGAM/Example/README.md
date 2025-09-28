@@ -18,10 +18,10 @@ This example demonstrates the prediction of Pt NP adhesion performance on **6 di
 
 Surface inputs features
 
-- E_surf. - Surface energy (J·m⁻²)
-- WF - Work function (eV)
-- Ra - Average roughness of the surface (Å)
-- Dipole_Z - Surface average dipole moment in z direction (a.u.)
+- **E_surf.** - Surface energy (J·m⁻²)
+- **WF** - Work function (eV)
+- **Ra** - Average roughness of the surface (Å)
+- **Dipole_Z** - Surface average dipole moment in z direction (a.u.)
 
 Atomic Densities
 
