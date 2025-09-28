@@ -4,10 +4,10 @@ The `Example/` directory contains a complete demonstration of the 12-feature iGA
 
 ### Contents
 Example/
-├── 12-features_iGAM.joblib           # Trained iGAM model file
-├── inputs_12-features_iGAM.csv       # Input features dataset
-├── outputs_12-features_iGAM.csv      # Prediction results
-└── predicted_from_12-features_iGAM.py # Execution script
+- 12-features_iGAM.joblib           # Trained iGAM model file
+- inputs_12-features_iGAM.csv       # Input features dataset
+- outputs_12-features_iGAM.csv      # Prediction results
+- predicted_from_12-features_iGAM.py # Execution script
 
 ### Case Study: BaO Surface Analysis
 
