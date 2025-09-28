@@ -1,5 +1,7 @@
 # iGAM-MSI
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16878887-blue)](https://doi.org/10.5281/zenodo.16878887)
+[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41929--025--01417--3-blue)](https://doi.org/10.1038/s41929-025-01417-3)
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
