@@ -25,23 +25,23 @@ Surface inputs features
 
 Atomic Densities
 
-- rho_O - Surface oxygen density (atoms·Å⁻²)
-- rho_M - Surface metal density (atoms·Å⁻²)
+- **rho_O** - Surface oxygen density (atoms·Å⁻²)
+- **rho_M** - Surface metal density (atoms·Å⁻²)
 
 Bond Order Parameters
 
-- M_SBO - Sum bond order of surface metal (dimensionless)
-- O_SBO - Sum bond order of surface oxygen (dimensionless)
+- **M_SBO** - Sum bond order of surface metal (dimensionless)
+- **O_SBO** - Sum bond order of surface oxygen (dimensionless)
 
 Electronic Properties
 
-- NC_postive - Net atomic charge of surface metal (|e⁻|)
-- NC_negative - Net atomic charge of surface oxygen (|e⁻|)
+- **NC_postive** - Net atomic charge of surface metal (|e⁻|)
+- **NC_negative** - Net atomic charge of surface oxygen (|e⁻|)
 
 Bulk Stability Properties
 
-- Ef - Formation energy per atom in bulk (eV·atom⁻¹)
-- Ehull - Energy above convex hull in bulk (meV·atom⁻¹)
+- **Ef** - Formation energy per atom in bulk (eV·atom⁻¹)
+- **Ehull** - Energy above convex hull in bulk (meV·atom⁻¹)
 
 These 12 features comprehensively describe the surface geometric structure, electronic properties, chemical bonding characteristics, and thermodynamic stability of catalyst support materials, providing a complete set of material descriptors for predicting adhesion energy between Pt nanoparticles and supports.
 
