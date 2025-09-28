@@ -1,6 +1,6 @@
 ## Example
 
-The `Example/` directory contains a complete demonstration of the 12-feature iGAM model for high-throughput predictions for Pt NP adhesion energy (J/m2) and Contact angle (°) on specific catalyst supports0.
+The `Example/` directory contains a complete demonstration of the 12-feature iGAM model for high-throughput predictions for Pt NP adhesion energy (J/m2) and Contact angle (°) on specific catalyst supports.
 
 ### Contents
 Example/
