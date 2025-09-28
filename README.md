@@ -11,7 +11,6 @@ iGAM-MSI: Shed light on Metal-Support Interactions through Interpretable Machine
 - [Introduction](#introduction)
 - [Features](#features)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
 - [References](#references)
 - [Citation](#citation)
 
