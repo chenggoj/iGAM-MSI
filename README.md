@@ -68,14 +68,8 @@ Note: Some libraries like `interpret-community` might have additional system dep
 
 For a detailed overview of iGAMs, please refer to the [original EBM repository](https://github.com/interpretml/interpret/).
 
+
 ## Citation
-
-If you use this code, models, or the NN-MD-database in your research, please cite: 
-
-```bibtex 
-C. Jiang, B. Yan, B. Goldsmith, S. Linic, Predictive model for the discovery of sinter-resistant supports for metallic nanoparticle catalysts by interpretable machine learning, Nature Catalysis, (2025). DOI: 10.1038/s41929-025-01417-3
-
-## 📝 Citation
 
 If you use this code, models, or the NN-MD-database in your research, please cite:
 
