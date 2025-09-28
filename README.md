@@ -76,13 +76,3 @@ If you use this code, models, or the NN-MD-database in your research, please cit
 > Jiang C, Yan B, Goldsmith B, Linic S. *Predictive model for the discovery of sinter-resistant supports for metallic nanoparticle catalysts by interpretable machine learning*. Nat Catal (2025).
 
 [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41929--025--01417--3-blue)](https://doi.org/10.1038/s41929-025-01417-3)
-
-### BibTeX
-```bibtex
-@article{jiang2025predictive,
-  title={Predictive model for the discovery of sinter-resistant supports for metallic nanoparticle catalysts by interpretable machine learning},
-  author={Jiang, C and Yan, B and Goldsmith, B and Linic, S},
-  journal={Nature Catalysis},
-  year={2025},
-  doi={10.1038/s41929-025-01417-3}
-}
