@@ -1,3 +1,5 @@
+
+
 # iGAM-MSI
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16878887-blue)](https://doi.org/10.5281/zenodo.16878887)
@@ -12,6 +14,7 @@ iGAM-MSI: Shed light on Metal-Support Interactions through Interpretable Machine
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Prerequisites](#prerequisites)
 - [Dependencies](#dependencies)
 - [References](#references)
 - [Citation](#citation)
